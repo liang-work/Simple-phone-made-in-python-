@@ -1,0 +1,14 @@
+Q:Who made this project?
+A:liang_work from github.com
+Q:What made this project?
+A:En…I don't know.
+Q:Will it be updated in the future?
+A:Yes,but I am unable to provide stable updates.
+Q:Why are there so many "not available" options?
+A:Because I cannot create so many functions.
+Q:Why don't made a gui?
+A:Because I use Android made it,the Android is have got a bug ,not install 'tkinter' and 'pygame', so I don't made a gui.
+Q:Why don't you plan to localize the software in Chinese?
+A:As you can see, currently at my level, writing both English and Chinese in one program can cause the files to become larger and increase workload, so it is generally in English.
+(not end)
+(tips : the new disk is not load so you need use 'clear_disk')
